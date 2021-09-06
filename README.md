@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I am frontend developer MinJi.
+### Frontend developer MinJi.
 
 Techs that I've used at least once ✨<br />
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
