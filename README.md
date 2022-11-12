@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fswssbw&count_bg=%2357A9FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ### Frontend developer MinJi.
 
 Techs that I've used at least once ✨<br />
@@ -21,7 +21,7 @@ Interested in ✍🏻 <br />
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white"/>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fswssbw&count_bg=%2357A9FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 <!--
 **swssbw/swssbw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
