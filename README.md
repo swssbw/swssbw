@@ -26,13 +26,8 @@
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 </div>
-
-<br/>
 <br/>
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swssbw&layout=compact) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swssbw&layout=compact) 
 
-<br/>
-<br/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swssbw&show_icons=true&theme=dracula)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swssbw&show_icons=true&theme=dracula) -->
