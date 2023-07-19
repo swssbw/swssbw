@@ -1,5 +1,3 @@
-<center>
-
 ### Techs that I've used at work 👩🏻‍💻 <br />
 
 <div>
@@ -29,4 +27,12 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 </div>
 
-</center>
+<br/>
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swssbw&layout=compact)
+
+<br/>
+<br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swssbw&show_icons=true&theme=dracula)
